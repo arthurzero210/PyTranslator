@@ -1,0 +1,11 @@
+{
+    "typeerror": "You tried to perform an operation using incompatible types (example: string + number, calling an integer like a function, or using an unsupported operator between types).",
+    "nameerror": "You tried to use a variable or function that was not defined before being called.",
+    "syntaxerror": "There is a syntax mistake in your code (missing colon, parentheses, quotes, or incorrect structure).",
+    "indexerror": "You tried to access a list index that does not exist (the position is outside the list range).",
+    "keyerror": "You tried to access a dictionary key that does not exist.",
+    "zerodivisionerror": "You attempted to divide a number by zero, which is not allowed.",
+    "attributeerror": "You tried to use a method or attribute that does not exist for that object type.",
+    "indentationerror": "Your code indentation is incorrect. Python relies on proper spacing to define code blocks.",
+    "valueerror": "A function received the correct type but an inappropriate value (example: converting 'abc' to int)."
+}
