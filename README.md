@@ -72,7 +72,7 @@ git clone https://github.com/your-username/error-translator.git
 ### 2️⃣ Install dependencies
 
 ```bash
-pip install pandas
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the program
