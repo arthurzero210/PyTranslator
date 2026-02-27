@@ -4,6 +4,10 @@ A powerful CLI tool that translates programming errors into clear, human-readabl
 
 Built to help beginners understand what actually went wrong — without decoding cryptic messages.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 ---
 
 ## 📌 What It Does
